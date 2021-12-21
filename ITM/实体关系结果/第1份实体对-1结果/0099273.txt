@@ -1,0 +1,4 @@
+p(z)		Top words
+0.867299	dmn:0.085427# insight:0.060302# hyperactivity:0.055276# pain:0.055276# emotional:0.050251#
+0.099526	emotional:0.108108# gyrus:0.081081# default:0.081081# mode:0.081081# dmn:0.054054#
+0.033175	anxiety:0.130435# emotional:0.086957# episodic:0.086957# prefrontal:0.086957# cortex:0.086957#

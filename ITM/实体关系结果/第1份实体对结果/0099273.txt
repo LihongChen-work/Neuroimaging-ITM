@@ -1,0 +1,4 @@
+p(z)		Top words
+0.584158	dmn:0.146667# pain:0.080000# cingulate:0.066667# hyperactivity:0.066667# amygdala:0.053333#
+0.326733	dmn:0.183673# anxiety:0.061224# prefrontal:0.061224# cortex:0.061224# emotional:0.061224#
+0.089109	dmn:0.120000# emotional:0.080000# voxel:0.080000# voxels:0.080000# fmri:0.080000#

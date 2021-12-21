@@ -1,0 +1,4 @@
+p(z)		Top words
+0.940774	dmn:0.056009# anxiety:0.049008# attention:0.049008# amygdala:0.046674# cingulate:0.046674#
+0.056948	fibromyalgia:0.123457# voxels:0.098765# fmri:0.074074# hypothalamus:0.074074# amygdala:0.049383#
+0.002278	amygdala:0.060606# anxiety:0.060606# attention:0.060606# cingulate:0.060606# gyrus:0.060606#

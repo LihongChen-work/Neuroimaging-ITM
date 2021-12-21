@@ -1,0 +1,104 @@
+amygdala	dmn
+amygdala	emotional
+amygdala	hippocampus
+amygdala	hypothalamus
+anxiety	cingulate gyrus
+anxiety	dmn
+anxiety	emotion
+anxiety	emotional
+anxiety	episodic memory retrieval
+anxiety	fmri
+anxiety	hyperactivity
+anxiety	pain
+anxiety	prefrontal cortex
+anxiety	thalamus
+attention	anxiety
+attention	dmn
+attention	emotion
+attention	emotional
+attention	episodic memory retrieval
+attention	fmri
+attention	hyperactivity
+attention	pain
+cingulate gyrus	amygdala
+cingulate gyrus	dmn
+cingulate gyrus	hippocampus
+cingulate gyrus	hypothalamus
+cingulate gyrus	thalamus
+default mode network	anxiety
+default mode network	attention
+default mode network	dmn
+default mode network	emotion
+default mode network	emotional
+default mode network	episodic memory retrieval
+default mode network	fmri
+default mode network	hyperactivity
+default mode network	pain
+default mode network	parietal lobe
+dmn	emotion
+dmn	emotional
+dmn	episodic memory retrieval
+dmn	parietal lobe
+emotional	cingulate gyrus
+emotional	thalamus
+episodic memory retrieval	emotion
+episodic memory retrieval	emotional
+fibromyalgia	dmn
+fibromyalgia	fmri
+fibromyalgia	hyperactivity
+fmri	dmn
+fmri	emotion
+fmri	emotional
+fmri	episodic memory retrieval
+gyrus	emotional
+gyrus	thalamus
+hippocampus	dmn
+hippocampus	emotional
+hippocampus	hypothalamus
+hyperactivity	dmn
+hyperactivity	emotion
+hyperactivity	emotional
+hyperactivity	episodic memory retrieval
+hyperactivity	fmri
+hyperactivity	pain
+hypothalamus	dmn
+hypothalamus	emotional
+insight	anxiety
+insight	attention
+insight	default mode network
+insight	dmn
+insight	emotion
+insight	emotional
+insight	episodic memory retrieval
+insight	fmri
+insight	hyperactivity
+insight	insight
+insight	pain
+magnetic resonance imaging	amygdala
+magnetic resonance imaging	emotional
+magnetic resonance imaging	hippocampus
+magnetic resonance imaging	hypothalamus
+magnetic resonance imaging	mri
+map	emotion
+map	voxels
+mri	amygdala
+mri	hippocampus
+mri	hypothalamus
+pain	dmn
+pain	emotion
+pain	emotional
+pain	episodic memory retrieval
+pain	fibromyalgia
+pain	fmri
+prefrontal cortex	cingulate gyrus
+prefrontal cortex	dmn
+prefrontal cortex	emotional
+prefrontal cortex	thalamus
+thalamus	amygdala
+thalamus	dmn
+threshold	dmn
+threshold	pain
+voxel	emotion
+voxel	voxels
+voxels	dmn
+voxels	episodic memory retrieval

@@ -1,0 +1,49 @@
+insight	dmn
+insight	dmn
+anxiety	prefrontal cortex
+anxiety	cingulate gyrus
+anxiety	gyrus
+prefrontal cortex	cingulate gyrus
+prefrontal cortex	gyrus
+cingulate gyrus	gyrus
+magnetic resonance imaging	mri
+magnetic resonance imaging	amygdala
+mri	amygdala
+emotional	cingulate gyrus
+emotional	thalamus
+cingulate gyrus	thalamus
+default mode network	dmn
+default mode network	attention
+dmn	attention
+dmn	anxiety
+map	voxel
+map	voxels
+voxel	voxels
+fmri	threshold
+amygdala	hippocampus
+amygdala	hypothalamus
+amygdala	emotional
+hippocampus	hypothalamus
+hippocampus	emotional
+hypothalamus	emotional
+pain	pain
+pain	fibromyalgia
+pain	fibromyalgia
+emotion	voxels
+parietal lobe	attention
+dmn	hyperactivity
+dmn	pain
+hyperactivity	pain
+fmri	pain
+fmri	dmn
+pain	dmn
+dmn	hyperactivity
+dmn	dmn
+dmn	dmn
+hyperactivity	dmn
+hyperactivity	dmn
+dmn	dmn
+dmn	episodic memory retrieval
+dmn	emotion
+episodic memory retrieval	emotion
+dmn	emotional

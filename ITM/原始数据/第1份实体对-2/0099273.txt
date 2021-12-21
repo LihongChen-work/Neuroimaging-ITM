@@ -1,0 +1,218 @@
+amygdala	anxiety
+amygdala	attention
+amygdala	cingulate gyrus
+amygdala	default mode network
+amygdala	dmn
+amygdala	emotion
+amygdala	emotional
+amygdala	episodic memory retrieval
+amygdala	fibromyalgia
+amygdala	fmri
+amygdala	hippocampus
+amygdala	hyperactivity
+amygdala	hypothalamus
+amygdala	insight
+amygdala	magnetic resonance imaging
+amygdala	pain
+amygdala	parietal lobe
+amygdala	prefrontal cortex
+amygdala	threshold
+amygdala	voxels
+anxiety	attention
+anxiety	cingulate gyrus
+anxiety	default mode network
+anxiety	dmn
+anxiety	emotion
+anxiety	emotional
+anxiety	episodic memory retrieval
+anxiety	fibromyalgia
+anxiety	fmri
+anxiety	hippocampus
+anxiety	hyperactivity
+anxiety	hypothalamus
+anxiety	insight
+anxiety	magnetic resonance imaging
+anxiety	map
+anxiety	pain
+anxiety	parietal lobe
+anxiety	prefrontal cortex
+anxiety	threshold
+anxiety	voxels
+attention	cingulate gyrus
+attention	default mode network
+attention	dmn
+attention	emotion
+attention	emotional
+attention	episodic memory retrieval
+attention	fibromyalgia
+attention	fmri
+attention	hippocampus
+attention	hyperactivity
+attention	hypothalamus
+attention	insight
+attention	magnetic resonance imaging
+attention	map
+attention	pain
+attention	parietal lobe
+attention	prefrontal cortex
+attention	threshold
+attention	voxels
+cingulate gyrus	default mode network
+cingulate gyrus	episodic memory retrieval
+cingulate gyrus	fibromyalgia
+cingulate gyrus	fmri
+cingulate gyrus	hyperactivity
+cingulate gyrus	insight
+cingulate gyrus	magnetic resonance imaging
+cingulate gyrus	mri
+cingulate gyrus	pain
+cingulate gyrus	parietal lobe
+cingulate gyrus	prefrontal cortex
+cingulate gyrus	threshold
+cingulate gyrus	voxels
+default mode network	dmn
+default mode network	emotion
+default mode network	emotional
+default mode network	episodic memory retrieval
+default mode network	fibromyalgia
+default mode network	fmri
+default mode network	hippocampus
+default mode network	hyperactivity
+default mode network	hypothalamus
+default mode network	insight
+default mode network	magnetic resonance imaging
+default mode network	map
+default mode network	pain
+default mode network	parietal lobe
+default mode network	prefrontal cortex
+default mode network	threshold
+default mode network	voxels
+dmn	cingulate gyrus
+dmn	dmn
+dmn	emotional
+dmn	episodic memory retrieval
+dmn	fmri
+dmn	hippocampus
+dmn	hyperactivity
+dmn	hypothalamus
+dmn	insight
+dmn	magnetic resonance imaging
+dmn	map
+dmn	mri
+dmn	pain
+dmn	parietal lobe
+dmn	prefrontal cortex
+dmn	threshold
+dmn	voxel
+dmn	voxels
+emotion	episodic memory retrieval
+emotion	fibromyalgia
+emotion	fmri
+emotion	hyperactivity
+emotion	insight
+emotion	pain
+emotion	parietal lobe
+emotion	prefrontal cortex
+emotion	threshold
+emotion	voxels
+emotional	cingulate gyrus
+emotional	episodic memory retrieval
+emotional	fibromyalgia
+emotional	fmri
+emotional	hippocampus
+emotional	hyperactivity
+emotional	hypothalamus
+emotional	insight
+emotional	magnetic resonance imaging
+emotional	mri
+emotional	pain
+emotional	parietal lobe
+emotional	prefrontal cortex
+emotional	threshold
+emotional	voxels
+episodic memory retrieval	fibromyalgia
+episodic memory retrieval	fmri
+episodic memory retrieval	hippocampus
+episodic memory retrieval	hyperactivity
+episodic memory retrieval	hypothalamus
+episodic memory retrieval	insight
+episodic memory retrieval	magnetic resonance imaging
+episodic memory retrieval	map
+episodic memory retrieval	pain
+episodic memory retrieval	parietal lobe
+episodic memory retrieval	prefrontal cortex
+episodic memory retrieval	threshold
+episodic memory retrieval	voxels
+fibromyalgia	dmn
+fibromyalgia	fmri
+fibromyalgia	hippocampus
+fibromyalgia	hyperactivity
+fibromyalgia	hypothalamus
+fibromyalgia	insight
+fibromyalgia	pain
+fibromyalgia	prefrontal cortex
+fibromyalgia	threshold
+fibromyalgia	voxels
+fmri	hippocampus
+fmri	hyperactivity
+fmri	hypothalamus
+fmri	insight
+fmri	magnetic resonance imaging
+fmri	map
+fmri	pain
+fmri	prefrontal cortex
+fmri	threshold
+fmri	voxels
+hippocampus	cingulate gyrus
+hippocampus	hyperactivity
+hippocampus	hypothalamus
+hippocampus	insight
+hippocampus	magnetic resonance imaging
+hippocampus	mri
+hippocampus	pain
+hippocampus	prefrontal cortex
+hippocampus	threshold
+hippocampus	voxels
+hyperactivity	hypothalamus
+hyperactivity	insight
+hyperactivity	magnetic resonance imaging
+hyperactivity	map
+hyperactivity	pain
+hyperactivity	prefrontal cortex
+hyperactivity	threshold
+hyperactivity	voxels
+hypothalamus	cingulate gyrus
+hypothalamus	insight
+hypothalamus	magnetic resonance imaging
+hypothalamus	mri
+hypothalamus	pain
+hypothalamus	prefrontal cortex
+hypothalamus	threshold
+hypothalamus	voxels
+insight	magnetic resonance imaging
+insight	map
+insight	pain
+insight	prefrontal cortex
+insight	threshold
+insight	voxels
+magnetic resonance imaging	mri
+magnetic resonance imaging	pain
+magnetic resonance imaging	prefrontal cortex
+map	pain
+map	voxel
+pain	prefrontal cortex
+pain	threshold
+pain	voxels
+parietal lobe	fibromyalgia
+parietal lobe	fmri
+parietal lobe	hippocampus
+parietal lobe	hyperactivity
+parietal lobe	hypothalamus
+parietal lobe	insight
+parietal lobe	pain
+parietal lobe	prefrontal cortex
+parietal lobe	threshold
+parietal lobe	voxels
+prefrontal cortex	threshold
+prefrontal cortex	voxels
+threshold	voxels
